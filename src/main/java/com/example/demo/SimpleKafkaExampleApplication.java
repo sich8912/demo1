@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.kafka.annotation.EnableKafka;
 import org.springframework.kafka.annotation.KafkaListener;
 
+//комит типо
 @EnableKafka
 @SpringBootApplication
 public class SimpleKafkaExampleApplication {
